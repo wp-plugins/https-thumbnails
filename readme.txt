@@ -26,7 +26,7 @@ n/a
 
 == Installation ==
 
-For full installation instructions, please review the following article: [Installation Instructions](http://www.icontrolwp.com/2014/10/enabling-cloudflares-universal-flexible-ssl-wordpress-without-infinite-redirect-loops/).
+Just activate the plugin and you're good to go.
 
 == Changelog ==
 
